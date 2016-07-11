@@ -1,0 +1,1 @@
+EventBus3.0学习使用第一版在同一个Activity里尝试四种方式
